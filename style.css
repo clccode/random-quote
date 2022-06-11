@@ -1,0 +1,12 @@
+body {
+    padding: 50px;
+}
+  
+#quote-box {
+    background-color: beige;
+}
+  
+#tweet-quote {
+    color: white;
+    text-decoration: none;
+}
