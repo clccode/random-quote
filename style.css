@@ -1,17 +1,19 @@
 body {
     padding: 50px;
+    background-color:darkgreen;
 }
 
 h1 {
     text-align: center;
     padding: 20px;
+    color:antiquewhite
 }
   
 #quote-box {
-    background-color: beige;
+    background-color:antiquewhite
 }
   
 #tweet-quote {
-    color: white;
+    color:antiquewhite;
     text-decoration: none;
 }
